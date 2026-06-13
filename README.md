@@ -61,7 +61,7 @@ Data & Software Engineer • Applied ML ∫ data → systems ✨
 🐙 <a href="https://github.com/Dreamerol">𝗚𝗜𝗧𝗛𝗨𝗕</a> • 
 🧩 <a href="https://github.com/Dreamerol/CARDS-PORTFOLIO-2026" target="_blank">𝗥𝗘𝗣𝗢𝗦</a> • 
 ✅ <a href="https://github.com/Dreamerol/Junior-Data-Analyst/tree/main">𝗥𝗘𝗦𝗨𝗠𝗘</a> • 
-👉 <a href="https://github.com/Dreamerol/GITHUB-STATS"><b>𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦</b></a>
+👉 <a href="https://github.com/Dreamerol/GITHUB-STATS"><b>𝗦𝗧𝗔𝗧𝗦</b></a>
 
 </span>
 
