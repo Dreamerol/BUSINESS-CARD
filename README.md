@@ -182,6 +182,194 @@ Data & Software Engineer • Applied ML ∫ data → systems ✨
 
 
 
+---
+
+
+<br>
+
+
+
+<div align="center">
+
+<!-- ================= FEATURED ================= -->
+<table align="center">
+
+<tr>
+
+<td align="center" width="360">
+<a href="https://github.com/Dreamerol/NEURAL-NETWORKS">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/ZZZZZZZZZNNNNN777.jpg"
+width="320" height="220">
+</a>
+<br><b>𝗡𝗘𝗨𝗥𝗔𝗟 𝗡𝗘𝗧𝗪𝗢𝗥𝗞𝗦</b>
+</td>
+
+<td align="center" width="360">
+<a href="https://github.com/Dreamerol/PROFIT-PREDICTOR-ML">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/ZZZZZZZZZZZZPROFIT7777.jpg"
+width="320" height="220">
+</a>
+<br><b>𝗣𝗥𝗢𝗙𝗜𝗧 𝗣𝗥𝗘𝗗𝗜𝗖𝗧𝗢𝗥</b>
+</td>
+
+<td align="center" width="360">
+<a href="https://github.com/Dreamerol/PLACEBO-EFFECT-ML-DATA-ANALYSIS">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/PLACEBO777.JPG"
+width="320" height="220">
+</a>
+<br><b>𝗠𝗟 𝗗𝗔𝗧𝗔 𝗔𝗡𝗔𝗟𝗬𝗦𝗜𝗦</b>
+</td>
+
+</tr>
+
+</table>
+
+
+
+<br>
+<br>
+
+
+
+
+<table align="center">
+
+<tr>
+<td align="center" width="360">
+<a href="https://github.com/Dreamerol/NUMERICAL-ANALYSIS-OPERATIONS-FUNCTIONS">
+<b>𝗡𝗨𝗠𝗘𝗥𝗜𝗖𝗔𝗟 𝗔𝗡𝗔𝗟𝗬𝗦𝗜𝗦</b>
+</a>
+</td>
+
+<td align="center" width="360">
+<a href="https://github.com/Dreamerol/POLYNOMIAL-CALCULATOR-ALGORITHMS">
+<b>𝗣𝗢𝗟𝗬𝗡𝗢𝗠𝗜𝗔𝗟 𝗖𝗔𝗟𝗖𝗨𝗟𝗔𝗧𝗢𝗥</b>
+</a>
+</td>
+
+<td align="center" width="360">
+<a href="https://github.com/Dreamerol/DATA-STRUCTURES-AND-ALGORITHMS">
+<b>𝗗𝗦𝗔 & 𝗔𝗟𝗚𝗢𝗥𝗜𝗧𝗛𝗠𝗦</b>
+</a>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<a href="https://github.com/Dreamerol/DATABASES-SQL">
+<b>𝗗𝗔𝗧𝗔𝗕𝗔𝗦𝗘𝗦</b>
+</a>
+</td>
+
+<td align="center">
+<a href="https://github.com/Dreamerol/DELIVERY-DATA-SQL-SYSTEM">
+<b>𝗦𝗤𝗟 𝗦𝗬𝗦𝗧𝗘𝗠</b>
+</a>
+</td>
+
+<td align="center">
+<a href="https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM">
+<b>𝗔𝗣𝗜 𝗦𝗬𝗦𝗧𝗘𝗠</b>
+</a>
+</td>
+
+</tr>
+
+</table>
+
+
+</div>
+
+
+
+
+
+<br>
+
+
+
+
+
+
+
+
+
+
+<h2 align="center">⭐ Feel free to explore repos and give a star if you find them interesting</h2>
+
+
+
+<div align="center">
+
+<p style="font-size:10px; line-height:1.6; letter-spacing:0.2px;">
+
+Mihaela Koseva (Михаела Косева) • AI Engineer • Software Engineer • Backend Engineer • Data Systems & APIs • Applied Machine Learning • Deep Learning • Neural Networks • Model Training • Data Pipelines • LLMs • Python • C++ • Java • Clojure • SQL • PyTorch • TensorFlow • Scikit-learn • Pandas • NumPy • ETL • Data Modeling • MLOps
+
+</p>
+
+<p style="font-size:10px; opacity:0.7;">
+🔗 Explore more on GitHub:
+<a href="https://github.com/Dreamerol">Mihaela Koseva (Михаела Косева) • GitHub • Dreamerol</a>
+</p>
+
+</div>
+
+
+
+
+<br>
+
+
+
+
+---
+
+
+
+
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/mihaela-koseva-b5b39337a">
+  <img height="65" src="https://img.shields.io/badge/LINKEDIN-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+
+<a href="https://github.com/Dreamerol">
+  <img height="65" src="https://img.shields.io/badge/GITHUB-9D4EDD?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Dreamerol/PORTFOLIO">
+<img src="https://img.shields.io/badge/PORTFOLIO-6C63FF?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://github.com/Dreamerol/CARDFOLIO">
+  <img height="65" src="https://img.shields.io/badge/REPOS-4F8CFF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Dreamerol/GITSTATS">
+  <img height="65" src="https://img.shields.io/badge/STATS-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Dreamerol/RESUME">
+<img src="https://img.shields.io/badge/RESUME-8A2BE2?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+</a>
+
+</p>
+
+
+</div>
+
+
+
+
+<br>
+<br>
+
+
+
+
+
 
 
 <div align="center">
