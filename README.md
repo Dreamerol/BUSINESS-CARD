@@ -80,6 +80,7 @@ Data & Software Engineer • Applied ML ∫ data → systems ✨
 
 
 
+
 <p align="center">
 
 <a href="https://www.linkedin.com/in/mihaela-koseva-b5b39337a">
@@ -99,7 +100,7 @@ Data & Software Engineer • Applied ML ∫ data → systems ✨
   <img height="65" src="https://img.shields.io/badge/REPOS-4F8CFF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Dreamerol/GITSTATS">
+<a href="https://github.com/Dreamerol/ALLSTATS">
   <img height="65" src="https://img.shields.io/badge/STATS-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -111,6 +112,7 @@ Data & Software Engineer • Applied ML ∫ data → systems ✨
 
 
 </div>
+
 
 
 
