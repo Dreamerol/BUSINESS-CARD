@@ -1,6 +1,6 @@
 
 
-<br><br><br>
+<br><br>
 
 
 <div align="center">
@@ -23,7 +23,7 @@ Data & Software Engineer • Applied ML ∫ data → systems ✨
 
 
 
-<br><br><br>
+<br><br>
 
 
 
@@ -45,7 +45,7 @@ Data & Software Engineer • Applied ML ∫ data → systems ✨
 
 
 
-<br><br><br>
+<br><br>
 
 
 
@@ -74,6 +74,8 @@ Data & Software Engineer • Applied ML ∫ data → systems ✨
 ---
 
 
+
+<br>
 
 
 
