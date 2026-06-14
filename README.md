@@ -120,12 +120,21 @@ Data & Software Engineer • Applied ML ∫ data → systems ✨
 
 
 
+---
+
+
+
+
+<br><br>
+
 
 
 
 <div align="center">
 
-## <a href="https://github.com/Dreamerol/CARDS-PORTFOLIO-2026">🟢 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗗 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦 𝟮𝟬𝟮𝟲</a>
+## <a href="https://github.com/Dreamerol/PORTFOLIO">🟢 𝗕𝗔𝗖𝗞𝗘𝗡𝗗 / 𝗗𝗔𝗧𝗔 • 𝗦𝗬𝗦𝗧𝗘𝗠𝗦 • 𝟮𝟬𝟮𝟲</a>
+
+## 𝟭𝟱+ 𝗕𝗮𝗰𝗸𝗲𝗻𝗱/𝗗𝗮𝘁𝗮 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀 • 𝗦𝗤𝗟 • 𝗦𝗰𝗮𝗹𝗮𝗯𝗹𝗲 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲 • 𝗔𝗽𝗽𝗹𝗶𝗲𝗱 𝗠𝗟 
 
 </div>
 
@@ -174,9 +183,7 @@ width="320" height="220">
 
 
 <br>
-<br><br>
-
-
+<br>
 
 
 
@@ -231,8 +238,6 @@ width="320" height="220">
 
 
 
-
-
 <br>
 <br>
 <br>
@@ -240,9 +245,131 @@ width="320" height="220">
 
 
 
+
+<div align="center">
+
+## <a href="https://github.com/Dreamerol/CARDFOLIO">🧩 𝗖𝗢𝗠𝗣𝗨𝗧𝗘𝗥 𝗦𝗖𝗜𝗘𝗡𝗖𝗘 • 𝗙𝗨𝗡𝗗𝗔𝗠𝗘𝗡𝗧𝗔𝗟𝗦 • 𝗦𝗬𝗦𝗧𝗘𝗠𝗦</a>
+
+## 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 • 𝗢𝗢𝗣 • 𝗦𝗤𝗟 • 𝗟𝗶𝗻𝘂𝘅 • 𝗔𝗹𝗴𝗼𝗿𝗶𝘁𝗵𝗺𝘀
+
+</div>
+
+
+<br>
+
+
+<div align="center">
+
+<table align="center">
+
+<tr>
+
+<td align="center" width="360">
+<a href="https://github.com/Dreamerol/DATA-STRUCTURES-AND-ALGORITHMS">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/ZZZZZZZZZZZZPROFIT7777.jpg"
+width="320" height="220">
+</a>
+<br><b>𝗗𝗦𝗔 & 𝗔𝗟𝗚𝗢𝗥𝗜𝗧𝗛𝗠𝗦</b>
+</td>
+
+<td align="center" width="360">
+<a href="https://github.com/Dreamerol/OBJECT-ORIENTED-PROGRAMMING">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/ZZZZZZZZZZZZPROFIT7777.jpg"
+width="320" height="220">
+</a>
+<br><b>𝗢𝗢𝗣 𝗗𝗘𝗦𝗜𝗚𝗡</b>
+</td>
+
+<td align="center" width="360">
+<a href="https://github.com/Dreamerol/LINUX-PRO-TOOLKIT">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/ZZZZZZZZZZZZPROFIT7777.jpg"
+width="320" height="220">
+</a>
+<br><b>𝗟𝗜𝗡𝗨𝗫 𝗦𝗬𝗦𝗧𝗘𝗠𝗦</b>
+</td>
+
+</tr>
+
+</table>
+
+
+<br>
+<br>
+
+
+<table align="center">
+
+<tr>
+
+<td align="center" width="360">
+<a href="https://github.com/Dreamerol/DATABASES-SQL">
+<b>𝗦𝗤𝗟 𝗗𝗔𝗧𝗔𝗕𝗔𝗦𝗘</b>
+</a>
+</td>
+
+<td align="center" width="360">
+<a href="https://github.com/Dreamerol/PYTHON-WEB-ADVANCED">
+<b>𝗣𝗬𝗧𝗛𝗢𝗡 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗠𝗘𝗡𝗧</b>
+</a>
+</td>
+
+<td align="center" width="360">
+<a href="https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM">
+<b>𝗖𝗟𝗢𝗝𝗨𝗥𝗘 & 𝗙𝗣</b>
+</a>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+<a href="https://github.com/Dreamerol/OOP-PRINCIPLES-DESIGN">
+<b>𝗖++ 𝗣𝗥𝗢𝗚𝗥𝗔𝗠𝗠𝗜𝗡𝗚</b>
+</a>
+</td>
+
+<td align="center">
+<a href="https://github.com/Dreamerol/POCKER-CONSOLE-GAME">
+<b>𝗣𝗢𝗞𝗘𝗥 𝗚𝗔𝗠𝗘</b>
+</a>
+</td>
+
+<td align="center">
+<a href="https://github.com/Dreamerol/RUMMIKUB-CONSOLE-GAME">
+<b>𝗥𝗨𝗠𝗠𝗜𝗞𝗨𝗕 𝗚𝗔𝗠𝗘</b>
+</a>
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+
+
+
+
+<br><br><br>
+
+
+
+
+---
+
+
+
+
+
+<br><br>
+
+
+
+ 
 
  <h2 align="center"> 
- 👉 <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026"> 
+ 👉 <a href="https://github.com/Dreamerol/PORTFOLIO"> 
   <em>Selected SWE & Data Projects →</em>
  </a>
 </h2>
@@ -339,9 +466,11 @@ width="320" height="220">
 
 
 
+
 <br>
 <br>
 <br>
+
 
 
 
@@ -359,8 +488,10 @@ width="320" height="220">
 
 
 
+
 <br>
 <br>
+
 
 
 
@@ -389,4 +520,8 @@ Mihaela Koseva (Михаела Косева) • AI Engineer • Software Engine
 
 
 
-<br><br><br><br>
+<br>
+<br>
+<br>
+<br>
+
