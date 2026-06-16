@@ -170,28 +170,28 @@ width="320" height="220">
 </td>
 
 <td align="center" width="360">
-<a href="https://github.com/Dreamerol/DATA-STRUCTURES-AND-ALGORITHMS">
-<b>𝗗𝗦𝗔 & 𝗔𝗟𝗚𝗢𝗥𝗜𝗧𝗛𝗠𝗦</b>
+<a href="https://github.com/Dreamerol/BOOK-CATALOG-APP-DJANGO">
+<b>𝗗𝗝𝗔𝗡𝗚𝗢 𝗖𝗔𝗧𝗔𝗟𝗢𝗚</b>
 </a>
 </td>
 </tr>
 
 <tr>
 <td align="center">
-<a href="https://github.com/Dreamerol/DATABASES-SQL">
-<b>𝗗𝗔𝗧𝗔𝗕𝗔𝗦𝗘𝗦</b>
+<a href="https://github.com/Dreamerol/PHYSICS-SIMULATION-SYSTEMS">
+<b>𝗣𝗛𝗬𝗦𝗜𝗖𝗦 𝗦𝗜𝗠𝗨𝗟𝗔𝗧𝗜𝗢𝗡</b>
 </a>
 </td>
 
 <td align="center">
 <a href="https://github.com/Dreamerol/DELIVERY-DATA-SQL-SYSTEM">
-<b>𝗦𝗤𝗟 𝗦𝗬𝗦𝗧𝗘𝗠</b>
+<b>𝗗𝗘𝗟𝗜𝗩𝗘𝗥𝗬 𝗦𝗤𝗟 𝗦𝗬𝗦𝗧𝗘𝗠</b>
 </a>
 </td>
 
 <td align="center">
-<a href="https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM">
-<b>𝗔𝗣𝗜 𝗦𝗬𝗦𝗧𝗘𝗠</b>
+<a href="https://github.com/Dreamerol/MOODLE-LMS-PLATFORM">
+<b>𝗟𝗠𝗦 𝗣𝗟𝗔𝗧𝗙𝗢𝗥𝗠</b>
 </a>
 </td>
 
