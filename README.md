@@ -66,36 +66,6 @@ Data & Software Engineer • Applied ML ∫ data → systems ✨
 ---
 
 
-<br><br><br>
-
-
-
-
-<div align="center">
-
-## <a href="https://github.com/Dreamerol/PORTFOLIO">🟢 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗗 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦 ∫ 𝗗𝗔𝗧𝗔 • 𝗔𝗣𝗣𝗟𝗜𝗘𝗗 𝗠𝗟</a>  
-
-## 𝗕𝗮𝗰𝗸𝗲𝗻𝗱. 𝗗𝗮𝘁𝗮. 𝗠𝗟. 𝗕𝘂𝗶𝗹𝘁 𝗮𝘀 𝗼𝗻𝗲 𝗲𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 𝘀𝘁𝗮𝗰𝗸.
-
-</div>
-
-
-
-<br><br>
-
-
-
-
-<div align="center">
-
-  <img 
-    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/PORTFOLIO.png"
-    width="100%"
-    style="border-radius:18px;" />
-
-</div>
-
-
 
 
 
