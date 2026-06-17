@@ -38,25 +38,6 @@ Data & Software Engineer • Applied ML ∫ data → systems ✨
 </div>
 
 
-<br>
-
-
-
-<div align="center">
-
-  <img 
-    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/PORTFOLIO.png"
-    width="100%"
-    style="border-radius:18px;" />
-
-</div>
-
-
-
-
-
-<br>
-
 
 <br>
 
@@ -87,6 +68,21 @@ Data & Software Engineer • Applied ML ∫ data → systems ✨
 
 
 
+
+
+
+<br><br>
+
+
+
+<div align="center">
+
+  <img 
+    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/PORTFOLIO.png"
+    width="100%"
+    style="border-radius:18px;" />
+
+</div>
 
 
 
