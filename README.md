@@ -280,18 +280,19 @@ width="320" height="220">
 </td>
 
 
-<td align="center" width="360">
-<a href="https://github.com/Dreamerol/PYTHON-WEB-ADVANCE">
-<b>𝗣𝗬𝗧𝗛𝗢𝗡 & 𝗔𝗣𝗜𝘀</b>
+<td align="center">
+<a href="https://github.com/Dreamerol/POCKER-CONSOLE-GAME">
+<b>𝗣𝗢𝗞𝗘𝗥 𝗚𝗔𝗠𝗘</b>
 </a>
 </td>
 
-<td align="center" width="360">
-<a href="https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM">
-<b>𝗖𝗟𝗢𝗝𝗨𝗥𝗘 & 𝗙𝗣</b>
+<td align="center">
+<a href="https://github.com/Dreamerol/RUMMIKUB-CONSOLE-GAME">
+<b>𝗥𝗨𝗠𝗠𝗜𝗞𝗨𝗕 𝗚𝗔𝗠𝗘</b>
 </a>
 </td>
 </tr>
+
 
 
 
@@ -304,21 +305,20 @@ width="320" height="220">
 </td>
 
 
-
-
-<td align="center">
-<a href="https://github.com/Dreamerol/POCKER-CONSOLE-GAME">
-<b>𝗣𝗢𝗞𝗘𝗥 𝗚𝗔𝗠𝗘</b>
+<td align="center" width="360">
+<a href="https://github.com/Dreamerol/PYTHON-WEB-ADVANCE">
+<b>𝗣𝗬𝗧𝗛𝗢𝗡 𝗗𝗘𝗩</b>
 </a>
 </td>
 
-<td align="center">
-<a href="https://github.com/Dreamerol/RUMMIKUB-CONSOLE-GAME">
-<b>𝗥𝗨𝗠𝗠𝗜𝗞𝗨𝗕 𝗚𝗔𝗠𝗘</b>
+<td align="center" width="360">
+<a href="https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM">
+<b>𝗖𝗟𝗢𝗝𝗨𝗥𝗘</b>
 </a>
 </td>
-
 </tr>
+
+
 
 </table>
 
