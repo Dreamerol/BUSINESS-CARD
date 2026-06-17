@@ -14,6 +14,12 @@ Data & Software Engineer • Applied ML ∫ data → systems ✨
 
 
 
+<div align="center">
+
+## <a href="https://www.uni-sofia.bg" target="_blank"><b>𝗙𝗠𝗜, 𝗦𝗼𝗳𝗶𝗮 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 “𝗦𝘁. 𝗞𝗹𝗶𝗺𝗲𝗻𝘁 𝗢𝗵𝗿𝗶𝗱𝘀𝗸𝗶”</b></a>
+
+</div>
+
 
 
 <div align="center">
@@ -29,37 +35,7 @@ Data & Software Engineer • Applied ML ∫ data → systems ✨
 
 
 
-
-
-
-
-
-<div align="center">
-
-## <a href="https://www.uni-sofia.bg" target="_blank"><b>𝗙𝗠𝗜, 𝗦𝗼𝗳𝗶𝗮 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 “𝗦𝘁. 𝗞𝗹𝗶𝗺𝗲𝗻𝘁 𝗢𝗵𝗿𝗶𝗱𝘀𝗸𝗶”</b></a>
-
-</div>
-
-
-
-
-
 <br>
-
-
-
-
-
-
-<div align="center">
-
-<img 
-  src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/!!!_Banner-Data-777.JPG"
-  alt="Vizitka"
-  width="100%"
-/>
-
-</div>
 
 
 
