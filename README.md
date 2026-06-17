@@ -116,7 +116,7 @@ Focused on calm consistency, disciplined work and continuous improvement across 
 
 ## <a href="https://github.com/Dreamerol/PORTFOLIO">🟢 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗗 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦 ∫ 𝗗𝗔𝗧𝗔 • 𝗔𝗣𝗣𝗟𝗜𝗘𝗗 𝗠𝗟</a>  
 
-## 𝗕𝗮𝗰𝗸𝗲𝗻𝗱. 𝗗𝗮𝘁𝗮. 𝗠𝗟. 𝗢𝗻𝗲 𝘀𝘆𝘀𝘁𝗲𝗺, 𝗻𝗼𝘁 𝘁𝘄𝗼 𝗱𝗼𝗺𝗮𝗶𝗻𝘀.
+## 𝗕𝗮𝗰𝗸𝗲𝗻𝗱. 𝗗𝗮𝘁𝗮. 𝗠𝗟. 𝗕𝘂𝗶𝗹𝘁 𝗮𝘀 𝗼𝗻𝗲 𝗲𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 𝘀𝘁𝗮𝗰𝗸.
 
 </div>
 
