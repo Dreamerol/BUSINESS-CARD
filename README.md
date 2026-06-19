@@ -412,6 +412,10 @@ width="320" height="220">
   <img height="65" src="https://img.shields.io/badge/Automata%20Converter-3C096C?style=for-the-badge"/>
 </a>
 
+<a href="https://github.com/Dreamerol/MOODLE-SYSTEM-EDUCATIONAL-PLATFORM">
+  <img height="65" src="https://img.shields.io/badge/LMS%20System-2C2C54?style=for-the-badge"/>
+</a>
+
 </p>
 
 </div>
