@@ -28,6 +28,20 @@ Data & Software Engineer • Applied ML ∫ data → systems ✨
 
 
 
+<div align="center">
+
+<a href="https://github.com/Dreamerol">
+  <img 
+    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA_KOSEVA_1.PNG"
+    width="100%"
+    alt="Mihaela Koseva Banner"
+  />
+</a>
+
+</div>
+
+
+
 
 <br>
 
