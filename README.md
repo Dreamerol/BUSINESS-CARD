@@ -38,7 +38,7 @@
 
 <div align="center">
 
-<a href="https://github.com/Dreamerol/CARDFOLIO">
+<a href="https://github.com/Dreamerol/ALLSTATS">
  <img 
     src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA_KOSEVA_77.PNG"
     width="100%"
