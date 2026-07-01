@@ -532,14 +532,14 @@ width="320" height="220">
 
 <div align="center">
 
-<img 
-  src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA_KOSEVA_VIZITKA_100.png"
-  alt="Vizitka"
-  width="100%"
-/>
+  <img 
+    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/!!!_MIHAELA_KOSEVA_VIZITKA_111.png"
+    alt="Vizitka"
+    width="100%"
+  />
+</a>
 
 </div>
-
 
 
 
